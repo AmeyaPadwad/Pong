@@ -1,10 +1,47 @@
-# Pong
-## Simple Pong game.
+# 🏓 Pong Game
 
-Download all the files in one folder.
+A simple classic Pong game built using Python's `turtle` graphics module.
 
-Use 'w' and 's' for the left paddle.
+---
 
-Use 'up' and 'down' for the right paddle.
+## 🎮 Controls
 
-Game goes on as long as you wish it to!
+- **Left Paddle (Player A)**:
+
+  - Move Up: `W`
+  - Move Down: `S`
+
+- **Right Paddle (Player B)**:
+
+  - Move Up: `↑` (Up Arrow)
+  - Move Down: `↓` (Down Arrow)
+
+---
+
+## 🗂 Setup Instructions
+
+1. Download or clone the repository and ensure all files are in the same folder:
+
+   - `Pong.py`
+   - `bounce.wav`
+
+2. Run the game:
+
+   ```bash
+   python Pong.py
+   ```
+
+---
+
+## 🛠 Requirements
+
+- Python 3.x
+- Windows (due to the use of `winsound` module)
+
+---
+
+## 📸 Preview
+
+![preview_image](image.png)
+
+---
